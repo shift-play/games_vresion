@@ -1,12 +1,4 @@
 {
-  "games": [
-    {
-      "packageName": "com.shiftplay.hangman",
-      "currentVersion": "1.1.0"
-    },
-    {
-      "packageName": "com.shiftplay.picsword",
-      "currentVersion": "1.1.20"
-    }
-  ]
+  "com.shiftplay.hangman": "1.1.0",
+  "com.shiftplay.picsword": "1.1.20"
 }
